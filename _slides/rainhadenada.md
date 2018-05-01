@@ -6,7 +6,6 @@ auto: false
 loop: false
 permalink: /rainhadenada/
 keyPress: true
-audoWidth: false
 ---
 
 * ![](0-CAPA.gif)
