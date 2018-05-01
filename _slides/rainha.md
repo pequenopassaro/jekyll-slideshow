@@ -4,6 +4,9 @@ title: Rainha de Nada
 item: 1
 auto: false
 loop: false
+permalink: /rainhadenada/
+keyPress: true
+audoWidth: false
 ---
 
 * ![](rainha/0-CAPA.gif)
